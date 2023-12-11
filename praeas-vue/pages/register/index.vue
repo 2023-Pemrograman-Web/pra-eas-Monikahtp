@@ -1,0 +1,3 @@
+<template>
+    <LazyRegister />
+</template>
